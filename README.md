@@ -1,7 +1,6 @@
 - 👋 Hi, I’m John Martínez (@Fidojm)
-- 👀 I’m interested in Developing Software using AI and Python...
-- 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Developing Software using AI..
+- 🌱 I’m currently learning: Python and other OOP languages.
 - 📫 Reach me on: linkedin.com/in/fidojm
 
 <!---
